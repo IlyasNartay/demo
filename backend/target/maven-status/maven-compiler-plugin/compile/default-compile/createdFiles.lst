@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\mongodb\Product.class
+com\example\demo\model\postgres\User.class
+com\example\demo\config\KafkaConfig.class
